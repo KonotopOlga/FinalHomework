@@ -1,4 +1,4 @@
-﻿/*string [] array = new string [10];
+﻿string [] array = new string [10];
 string [] FillStringArray(string [] array)
 {
     for(int i = 0; i < array.Length; i = i + 2)
@@ -37,8 +37,8 @@ int N = new Random().Next(0, 4);
 Console.WriteLine(N);
 string [] newArray = FillStringArrayAvailableValues(array, N);
 PrintArray(newArray);
-*/
 
+/*
 string [] array = new string [10];
 
 string [] FillStringArray(string [] array)
@@ -102,3 +102,4 @@ Console.WriteLine(N);
 
 string [] newArray = FillStringArrayAvailableValues(array, N);
 PrintArray(newArray); 
+*/
