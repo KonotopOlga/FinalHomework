@@ -1,0 +1,15 @@
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/bin/Debug/net6.0/Reshenie
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/bin/Debug/net6.0/Reshenie.deps.json
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/bin/Debug/net6.0/Reshenie.runtimeconfig.json
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/bin/Debug/net6.0/Reshenie.dll
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/bin/Debug/net6.0/Reshenie.pdb
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/Reshenie.csproj.AssemblyReference.cache
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/Reshenie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/Reshenie.AssemblyInfoInputs.cache
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/Reshenie.AssemblyInfo.cs
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/Reshenie.csproj.CoreCompileInputs.cache
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/Reshenie.dll
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/refint/Reshenie.dll
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/Reshenie.pdb
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/Reshenie.genruntimeconfig.cache
+/Users/deniskonotop/Desktop/С#/FinalHomework/Zadanie/Reshenie/obj/Debug/net6.0/ref/Reshenie.dll
